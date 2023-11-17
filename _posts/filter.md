@@ -5,6 +5,7 @@ date: 2023-08-14
 author: 可爱猪仔
 tags: [数理逻辑,非标准分析]
 ---
+
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -16,8 +17,6 @@ tags: [数理逻辑,非标准分析]
         });
     </script>
 </head>
-
-### 滤子、超滤子
 
 **原型**
 
